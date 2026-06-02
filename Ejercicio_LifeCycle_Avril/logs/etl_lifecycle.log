@@ -1,0 +1,81 @@
+2026-04-22 12:06:33,102 - INFO - Prueba log- todo funcionando
+2026-04-22 12:13:54,846 - INFO - Prueba log- todo funcionando
+2026-04-22 12:13:54,847 - INFO - Hay 4varchivos para procesar
+2026-04-22 12:52:14,627 - INFO - Prueba log- todo funcionando
+2026-04-22 12:52:14,628 - INFO - Hay 4varchivos para procesar
+2026-04-22 12:52:14,685 - INFO - Extraccion de datos hecha, estï¿½n todos los datos. Hay 12450
+2026-04-22 13:16:41,126 - INFO - Prueba log- todo funcionando
+2026-04-22 13:16:41,127 - INFO - Hay 4varchivos para procesar
+2026-04-22 13:16:41,166 - INFO - Extraccion de datos hecha, estï¿½n todos los datos. Hay 12450 filas
+2026-04-22 13:16:41,168 - INFO - Iniciando limpieza del test Sonar:
+2026-04-22 13:16:41,181 - INFO - Tabla Sonar limpia con 341 aplicaciones ï¿½nicas
+2026-04-22 13:25:27,067 - INFO - Prueba log- todo funcionando
+2026-04-22 13:25:27,067 - INFO - Hay 4varchivos para procesar
+2026-04-22 13:25:27,108 - INFO - Extraccion de datos hecha, estï¿½n todos los datos. Hay 12450 filas
+2026-04-22 13:25:27,108 - INFO - Iniciando limpieza del test Sonar:
+2026-04-22 13:25:27,113 - INFO - Tabla Sonar limpia con 341 aplicaciones ï¿½nicas
+2026-04-22 15:17:24,417 - INFO - Prueba log- todo funcionando
+2026-04-22 15:17:24,417 - INFO - Hay 4varchivos para procesar
+2026-04-22 15:17:24,501 - INFO - Extraccion de datos hecha, estï¿½n todos los datos. Hay 12450 filas
+2026-04-22 15:17:24,501 - INFO - Iniciando limpieza del test Sonar:
+2026-04-22 15:17:24,516 - INFO - Tabla Sonar limpia con 341 aplicaciones ï¿½nicas
+2026-04-22 15:17:24,516 - INFO - Iniciando limpieza del test Fortity:
+2026-04-22 15:17:24,530 - INFO - Tabla fortify calculada completa
+2026-04-22 15:19:16,136 - INFO - Prueba log- todo funcionando
+2026-04-22 15:19:16,136 - INFO - Hay 4varchivos para procesar
+2026-04-22 15:19:16,173 - INFO - Extraccion de datos hecha, estï¿½n todos los datos. Hay 12450 filas
+2026-04-22 15:19:16,174 - INFO - Iniciando limpieza del test Sonar:
+2026-04-22 15:19:16,178 - INFO - Tabla Sonar limpia con 341 aplicaciones ï¿½nicas
+2026-04-22 15:19:16,179 - INFO - Iniciando limpieza del test Fortity:
+2026-04-22 15:19:16,182 - INFO - Tabla fortify calculada completa
+2026-04-22 15:19:32,095 - INFO - Prueba log- todo funcionando
+2026-04-22 15:19:32,096 - INFO - Hay 4varchivos para procesar
+2026-04-22 15:19:32,137 - INFO - Extraccion de datos hecha, estï¿½n todos los datos. Hay 12450 filas
+2026-04-22 15:19:32,137 - INFO - Iniciando limpieza del test Sonar:
+2026-04-22 15:19:32,144 - INFO - Tabla Sonar limpia con 341 aplicaciones ï¿½nicas
+2026-04-22 15:19:32,144 - INFO - Iniciando limpieza del test Fortity:
+2026-04-22 15:19:32,148 - INFO - Tabla fortify calculada completa
+2026-04-22 15:58:19,546 - INFO - Prueba log- todo funcionando
+2026-04-22 15:58:19,546 - INFO - Hay 4varchivos para procesar
+2026-04-22 15:58:19,587 - INFO - Extraccion de datos hecha, estï¿½n todos los datos. Hay 12450 filas
+2026-04-22 15:58:19,587 - INFO - Iniciando limpieza del test Sonar:
+2026-04-22 15:58:19,593 - INFO - Tabla Sonar limpia con 341 aplicaciones ï¿½nicas
+2026-04-22 15:58:19,593 - INFO - Iniciando limpieza del test Fortity:
+2026-04-22 15:58:19,597 - INFO - Tabla fortify calculada completa
+2026-04-22 15:58:19,605 - INFO - Iniciando limpieza del test Trivy:
+2026-04-22 15:58:19,617 - INFO - Tabla Trivy calculada y completa.
+2026-04-22 16:05:45,541 - INFO - Prueba log- todo funcionando
+2026-04-22 16:05:45,542 - INFO - Hay 4varchivos para procesar
+2026-04-22 16:05:45,587 - INFO - Extraccion de datos hecha, estï¿½n todos los datos. Hay 12450 filas
+2026-04-22 16:05:45,588 - INFO - Iniciando limpieza del test Sonar:
+2026-04-22 16:05:45,593 - INFO - Tabla Sonar limpia con 341 aplicaciones ï¿½nicas
+2026-04-22 16:05:45,594 - INFO - Iniciando limpieza del test Fortity:
+2026-04-22 16:05:45,597 - INFO - Tabla fortify calculada completa
+2026-04-22 16:05:45,608 - INFO - Iniciando limpieza del test Trivy:
+2026-04-22 16:05:45,611 - INFO - Tabla Trivy calculada y completa.
+2026-04-22 16:05:45,612 - INFO - Iniciando la fusiï¿½n de las tablas Sonar, Fortify y Trivy
+2026-04-22 16:05:45,623 - INFO - Fusiï¿½n terminada con 341 registros finales
+2026-04-22 16:05:45,648 - INFO - ARCHIVO FINAL GENERADO: Auditoria_Lifecycle_2026-04-22.csv
+2026-04-22 16:05:45,648 - INFO - FIN DE LA  ETL
+2026-04-22 17:21:54,241 - INFO - Prueba log- todo funcionando
+2026-04-22 17:21:54,241 - INFO - Iniciando la fase de extraccion de ficheros CSV
+2026-04-22 17:21:54,241 - INFO - Hay 4varchivos para procesar
+2026-04-22 17:21:54,241 - INFO - Leyendo el fichero: csv\2024-09-06.csv ...
+2026-04-22 17:21:54,251 - INFO - Fichero 2024-09-06.csv leido. Filas extraidas: 3406
+2026-04-22 17:21:54,252 - INFO - Leyendo el fichero: csv\2024-09-13.csv ...
+2026-04-22 17:21:54,261 - INFO - Fichero 2024-09-13.csv leido. Filas extraidas: 3021
+2026-04-22 17:21:54,261 - INFO - Leyendo el fichero: csv\2024-09-20.csv ...
+2026-04-22 17:21:54,269 - INFO - Fichero 2024-09-20.csv leido. Filas extraidas: 2665
+2026-04-22 17:21:54,269 - INFO - Leyendo el fichero: csv\2024-09-27.csv ...
+2026-04-22 17:21:54,282 - INFO - Fichero 2024-09-27.csv leido. Filas extraidas: 3358
+2026-04-22 17:21:54,284 - INFO - Extraccion de datos hecha, están todos los datos. Hay 12450 filas
+2026-04-22 17:21:54,284 - INFO - Iniciando limpieza del test Sonar:
+2026-04-22 17:21:54,289 - INFO - Tabla Sonar limpia con 341 aplicaciones únicas
+2026-04-22 17:21:54,289 - INFO - Iniciando limpieza del test Fortity:
+2026-04-22 17:21:54,295 - INFO - Tabla fortify calculada completa
+2026-04-22 17:21:54,322 - INFO - Iniciando limpieza del test Trivy:
+2026-04-22 17:21:54,328 - INFO - Tabla Trivy calculada y completa.
+2026-04-22 17:21:54,328 - INFO - Iniciando la fusión de las tablas Sonar, Fortify y Trivy
+2026-04-22 17:21:54,336 - INFO - Fusión terminada con 341 registros finales
+2026-04-22 17:21:54,347 - INFO - ARCHIVO FINAL GENERADO: Auditoria_Lifecycle_2026-04-22.csv
+2026-04-22 17:21:54,348 - INFO - FIN DE LA  ETL
